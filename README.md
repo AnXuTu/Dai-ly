@@ -8,13 +8,13 @@ WE use HTML, CSS to design graphic for it, SQl to manage and update data, and PH
 # II. Build with: 
 Softwares you need to install to use and edit system:
 
-Sublime Text 2.
+Sublime Text 2 - Web design and combine SQL
 
-Download link: https://www.sublimetext.com/2.
+Download link: https://www.sublimetext.com/2
 
-SQL Server.
+SQL Server - Manage database
 
-Download link:
+Download link: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 # III. Prerequisites:
 # IV. Features
   
