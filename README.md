@@ -17,7 +17,7 @@ SQL Server.
 Download link:
 # III. Features
   
-  1. Agent reception
+  1. Agent reception:
     
     Algorithm:
     Step 1: Input data from the user.
@@ -29,6 +29,7 @@ Download link:
     Step 7: We export the data to the printer(if requested).
     Srep 8: Close connect to database.
     Step 9: Finish.
+  2. 
 # IV. Authors:
 An Xuân Tuấn - 16521355
 
