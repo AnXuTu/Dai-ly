@@ -15,7 +15,9 @@ Download link: https://www.sublimetext.com/2.
 SQL Server.
 
 Download link:
-# Author:
+# Running the tests
+
+# Authors:
 An Xuân Tuấn - 16521355
 
 Nguyễn Tấn Phát - 16521619
