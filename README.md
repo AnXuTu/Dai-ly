@@ -7,9 +7,10 @@ Management agency software is one of them.
 WE use HTML, CSS to design graphic for it, SQl to manage and update data, and PHP to combine SQL, HTML, CSS to show all system's function.
 # Prerequisites 
 Softwares you need to install to use and edit system.
-    + Sublime Text 2
-    Download link: https://www.sublimetext.com/2
-    + SQL Server
-    Download link:
+
+Sublime Text 2.
+Download link: https://www.sublimetext.com/2
+SQL Server.
+Download link:
 
     
