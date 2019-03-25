@@ -1,6 +1,6 @@
 # Dai-ly
 
-# I. Introduce to our project
+# I. Introduce:
 At present, applied imformation technology to manage in business, company and school is not strange anymore.
 The benifit of managed softwares is not only controled but also manageable activities in system and fact. 
 Management agency software is one of them. 
