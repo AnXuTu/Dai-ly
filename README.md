@@ -5,7 +5,7 @@ At present, applied imformation technology to manage in business, company and sc
 The benifit of managed softwares is not only controled but also manageable activities in system and fact. 
 Management agency software is one of them. 
 WE use HTML, CSS to design graphic for it, SQl to manage and update data, and PHP to combine SQL, HTML, CSS to show all system's function.
-# II. Prerequisites 
+# II. Build with: 
 Softwares you need to install to use and edit system:
 
 Sublime Text 2.
@@ -15,7 +15,8 @@ Download link: https://www.sublimetext.com/2.
 SQL Server.
 
 Download link:
-# III. Features
+# III. Prerequisites:
+# IV. Features
   
   1. Agent reception:
     
@@ -90,6 +91,9 @@ Download link:
     Step 7: We export the data to the printer(if needed).
     Srep 8: Close connect to database.
     Step 9: Finish.
+# V. Example:   
+# VI. FAQ & Usage:
+# VII. Contributing:
 # IV. Authors:
 An Xuân Tuấn - 16521355
 
