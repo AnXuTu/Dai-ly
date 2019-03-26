@@ -16,7 +16,7 @@ SQL Server - Manage database
 
 Download link: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 # III. Prerequisites:
-# IV. Features
+# IV. Functions:
   
   1. Agent reception:
     
