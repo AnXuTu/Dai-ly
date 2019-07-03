@@ -31,7 +31,7 @@ SQL Server Management Studio Express2012 - quản lý cơ sở dữ liệu
 
 Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJUIukjYQgXgU-J2p37JVS_dMMiMlSxhR_xjSIlzdyYnHufY9D5cc5i4
 
-># IV. Functions:
+># IV. DATA FLOW DIAGRAM:
   
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
