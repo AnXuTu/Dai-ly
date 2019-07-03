@@ -23,18 +23,18 @@ Báo cáo doanh số và công nợ hàng tháng
 ># II. Build with: 
 Những công cụ hỗ trợ trong việc xây dựng phần mềm:
 
-Microsoft Visual Studio - Xây dựng phần mềm
+Microsoft Visual Studio 2017- Xây dựng phần mềm
 
-Download link: 
+Download link: https://www.techspot.com/downloads/6278-visual-studio.html?fbclid=IwAR1VbAWsSon-JPiIRAtzDRhldrKAV4xdpv4vudhfhuE7GufAKdwQ1fJnecA
 
-SQL Server - quản lý cơ sở dữ liệu
+SQL Server Management Studio Express2012 - quản lý cơ sở dữ liệu
 
-Download link: 
+Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJUIukjYQgXgU-J2p37JVS_dMMiMlSxhR_xjSIlzdyYnHufY9D5cc5i4
 
 ># IV. Functions:
   
   1. Tiếp nhận đại lý:
-  
+    ![quan_ly_dai_ly](https://user-images.githubusercontent.com/48848147/60589253-439c2180-9dc3-11e9-8f03-359a0f431bc1.JPG)
     Thuật toán:
     Bước 1: Nhập D1 từ người dung.
     Bước 2: Kết nối cơ sở dữ liệu.
