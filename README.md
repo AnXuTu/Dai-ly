@@ -57,7 +57,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 9: Kết thúc
 
   2. Lập phiếu xuất hàng:
-    ![phieu_xuat_hang](https://user-images.githubusercontent.com/48848147/60590677-c96d9c00-9dc6-11e9-99c4-75ab83796a4f.JPG)
+    ![phieu_xuat_hang](https://user-images.githubusercontent.com/48848147/60590821-32edaa80-9dc7-11e9-92a5-73a6f3501a9e.JPG)
     
     Các ký hiệu:
     D1: Tên đại lý, các mặt hàng và đơn vị tính, số lượng, đơn giá tương ứng cho loại mặt hàng đó.
