@@ -56,7 +56,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 8: Đóng kết nối cơ sở dữ liệu.
     Bước 9: Kết thúc
 
-  2. Lập phiếu xuất hàng:
+   Lập phiếu xuất hàng:
     ![phieu_xuat_hang](https://user-images.githubusercontent.com/48848147/60590821-32edaa80-9dc7-11e9-92a5-73a6f3501a9e.JPG)
     
     Các ký hiệu:
@@ -81,7 +81,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 10: Kết thúc.
                                 
 
-   3. Tra cứu đại lý:
+    Tra cứu đại lý:
     ![tra_cuu](https://user-images.githubusercontent.com/48848147/60591089-d50d9280-9dc7-11e9-878d-227fc61aa71d.JPG)
     
     Các ký hiệu:
