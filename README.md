@@ -82,7 +82,8 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
                                 
 
    3. Tra cứu đại lý:
-   
+    ![tra_cuu](https://user-images.githubusercontent.com/48848147/60591089-d50d9280-9dc7-11e9-878d-227fc61aa71d.JPG)
+    
     Các ký hiệu:
     D1: Tên đại lý hoặc tên quận cần tìm.
     D2: Không có.
