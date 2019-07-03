@@ -33,18 +33,19 @@ Download link:
 
 ># IV. Functions:
   
-  1. Agent reception:
+  1. Tiếp nhận đại lý:
     
-    Algorithm:
-    Step 1: Input data from the user (agencies: name, address, phone, email, day reception).
-    Step 2: Connect to database.
-    Step 3: Read data from the auxiliary memory.
-    Step 4: We check the type of agencies, districts entered that are same with the list of agencies and districts from auxiliary memory or not, and the number of these agencies in each districts is allowed.
-    Step 5: If the condition in step 4 is not true, we jump to step 8.
-    Step 6: If the condition in step 4 is true, we save the input data to the auxiliary memory.
-    Step 7: We export the data to the printer(if requested).
-    Srep 8: Close connect to database.
-    Step 9: Finish.
+    Thuật toán:
+     Bước 1: Nhập dữ liệu từ người dùng (cơ quan: tên, địa chỉ, điện thoại, email, tiếp nhận ngày).
+     Bước 2: Kết nối với cơ sở dữ liệu.
+     Bước 3: Đọc dữ liệu từ bộ nhớ phụ.
+     Bước 4: kiểm tra loại cơ quan, quận được nhập có giống với danh sách các cơ quan và quận từ bộ nhớ phụ hay không, 
+     và số lượng đại lý cho phép này ở mỗi quận.
+     Bước 5: Nếu điều kiện ở bước 4 không đúng, chúng ta chuyển sang bước 8.
+     Bước 6: Nếu điều kiện ở bước 4 là đúng, chúng ta lưu dữ liệu đầu vào vào bộ nhớ phụ.
+     Bước 7: Chúng tôi xuất dữ liệu sang máy in (nếu được yêu cầu).
+     Srep 8: Đóng kết nối với cơ sở dữ liệu.
+     Bước 9: Hoàn tất.
   2. Set up delivery notes:
       
     Algorithm:
