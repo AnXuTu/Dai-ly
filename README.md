@@ -130,8 +130,9 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 10: Kết thúc.
 
 
-   5. Báo cáo doanh số
-   
+   Báo cáo doanh số
+   ![doanh_so](https://user-images.githubusercontent.com/48848147/60600401-45251400-9dda-11e9-91ef-05e258d21a27.JPG)
+
     Các ký hiệu:
     D1: Tháng cần báo cáo.
     D2: Không có.
@@ -152,7 +153,8 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 9: Kết thúc.
 
 
-   6. Báo cáo công nợ
+   Báo cáo công nợ
+   ![cong_no](https://user-images.githubusercontent.com/48848147/60600414-49e9c800-9dda-11e9-9264-7ea4146bda7e.JPG)
    
     Các ký hiệu:
     D1: Tháng cần báo cáo.
