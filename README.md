@@ -104,8 +104,9 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 9: Kết thúc.
 
 
-   4. Lập phiếu thu tiền
-    
+   Lập phiếu thu tiền
+   ![phieu_thu_tien](https://user-images.githubusercontent.com/48848147/60600160-dba50580-9dd9-11e9-8001-2a3208cd5782.JPG) 
+   
     Các ký hiệu:
     D1: Tên đại lý, địa chỉ, điện thoại, email, số tiền thu.
     D2: Không có.
