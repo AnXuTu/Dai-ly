@@ -34,12 +34,12 @@ Download link:
 ># IV. Functions:
   
   1. Tiếp nhận đại lý:
-    
+  
     Thuật toán:
      Bước 1: Nhập dữ liệu từ người dùng (cơ quan: tên, địa chỉ, điện thoại, email, tiếp nhận ngày).
      Bước 2: Kết nối với cơ sở dữ liệu.
      Bước 3: Đọc dữ liệu từ bộ nhớ phụ.
-     Bước 4: kiểm tra loại cơ quan, quận được nhập có giống với danh sách các cơ quan và quận từ bộ nhớ phụ hay không, và số lượng đại lý cho phép này ở mỗi quận.
+     Bước 4: kiểm tra loại cơ quan, quận được nhập có giống với danh sách các cơ quan và quận từ bộ nhớ phụ hay không, và số lượng đạ lý cho phép này ở mỗi quận.
      Bước 5: Nếu điều kiện ở bước 4 không đúng, chúng ta chuyển sang bước 8.
      Bước 6: Nếu điều kiện ở bước 4 là đúng, chúng ta lưu dữ liệu đầu vào vào bộ nhớ phụ.
      Bước 7: Chúng tôi xuất dữ liệu sang máy in (nếu được yêu cầu).
