@@ -1,23 +1,37 @@
 # Dai-ly
 
-# I. Introduce:
->Ứng dụng công nghệ thông tin để quản lý trong kinh doanh, công ty và trường học không còn xa lạ nữa.
+># I. Introduce:
+Ứng dụng công nghệ thông tin cho mục đích sống của con người không còn xa lạ nữa.
 
-Lợi ích của phần mềm không chỉ giúp kiểm soát mà còn có thể quản lý các thay đổi trong hệ thống và thực tế.
-Phần mềm quản lý đại lý của nhóm:
+Phần mềm quản lý đại lý của nhóm không chỉ giúp kiểm soát mà còn có thể quản lý mọi hoạt động của các đại lý một cách dễ dàng và hiệu quả nhất:
 
-# II. Build with: 
-Softwares you need to install to use and edit system:
+Bao gồm các công việc như:
 
-Sublime Text 2 - Web design and combine SQL
+Tiếp nhận đại lý mới
 
-Download link: https://www.sublimetext.com/2
+Kiểm soát các đại lý hiện có
 
-SQL Server - Manage database
+Lập phiếu xuất hàng
 
-Download link: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-# III. Prerequisites:
-# IV. Functions:
+Tra cứu đại lý hiện có
+
+Lập phiếu thu tiền
+
+Báo cáo doanh số và công nợ hàng tháng
+
+
+># II. Build with: 
+Những công cụ hỗ trợ trong việc xây dựng phần mềm:
+
+Microsoft Visual Studio - Xây dựng phần mềm
+
+Download link: 
+
+SQL Server - quản lý cơ sở dữ liệu
+
+Download link: 
+
+># IV. Functions:
   
   1. Agent reception:
     
