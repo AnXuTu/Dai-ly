@@ -2,6 +2,7 @@
 
 # I. Introduce:
 >Ứng dụng công nghệ thông tin để quản lý trong kinh doanh, công ty và trường học không còn xa lạ nữa.
+
 Lợi ích của phần mềm không chỉ giúp kiểm soát mà còn có thể quản lý các thay đổi trong hệ thống và thực tế.
 Phần mềm quản lý đại lý của nhóm:
 
