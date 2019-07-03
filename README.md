@@ -34,7 +34,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 ># IV. Functions:
   
   1. Tiếp nhận đại lý:
-    ![quan_ly_dai_ly](https://user-images.githubusercontent.com/48848147/60589253-439c2180-9dc3-11e9-8f03-359a0f431bc1.JPG)
+    ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
     
     Các ký hiệu:
     D1: Tên đại lý, loại đại lý, địa chỉ, điện thoại, ngày tiếp nhận, email.
