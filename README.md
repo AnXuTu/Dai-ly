@@ -1,10 +1,10 @@
 # Dai-ly
 
-# I. Introduce:
-At present, applied imformation technology to manage in business, company and school is not strange anymore.
-The benifit of managed softwares is not only controled but also manageable activities in system and fact. 
-Management agency software is one of them. 
-WE use HTML, CSS to design graphic for it, SQl to manage and update data, and PHP to combine SQL, HTML, CSS to show all system's function.
+## I. Introduce:
+Ứng dụng công nghệ thông tin để quản lý trong kinh doanh, công ty và trường học không còn xa lạ nữa.
+Lợi ích của phần mềm không chỉ giúp kiểm soát mà còn có thể quản lý các thay đổi trong hệ thống và thực tế.
+Phần mềm quản lý đại lý của nhóm:
+
 # II. Build with: 
 Softwares you need to install to use and edit system:
 
