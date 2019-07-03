@@ -36,6 +36,8 @@ Download link:
   1. Tiếp nhận đại lý:
   
     Thuật toán:
+    buuo71c
+    
      Bước 1: Nhập dữ liệu từ người dùng (cơ quan: tên, địa chỉ, điện thoại, email, tiếp nhận ngày).
      Bước 2: Kết nối với cơ sở dữ liệu.
      Bước 3: Đọc dữ liệu từ bộ nhớ phụ.
