@@ -35,6 +35,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   
   1. Tiếp nhận đại lý:
     ![quan_ly_dai_ly](https://user-images.githubusercontent.com/48848147/60589253-439c2180-9dc3-11e9-8f03-359a0f431bc1.JPG)
+    
     Thuật toán:
     Bước 1: Nhập D1 từ người dung.
     Bước 2: Kết nối cơ sở dữ liệu.
