@@ -36,6 +36,15 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   1. Tiếp nhận đại lý:
     ![quan_ly_dai_ly](https://user-images.githubusercontent.com/48848147/60589253-439c2180-9dc3-11e9-8f03-359a0f431bc1.JPG)
     
+    Các ký hiệu:
+    D1: Tên đại lý, loại đại lý, địa chỉ, điện thoại, ngày tiếp nhận, email.
+    D2: Không có.
+    D3: Danh sách các loại đại lý.
+    D4: D1.
+    D5: D4.
+    D6: Không có.
+
+    
     Thuật toán:
     Bước 1: Nhập D1 từ người dung.
     Bước 2: Kết nối cơ sở dữ liệu.
