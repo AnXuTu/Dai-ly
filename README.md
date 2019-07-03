@@ -44,7 +44,6 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     D5: D4.
     D6: Không có.
 
-    
     Thuật toán:
     Bước 1: Nhập D1 từ người dung.
     Bước 2: Kết nối cơ sở dữ liệu.
@@ -58,8 +57,16 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 9: Kết thúc
 
   2. Lập phiếu xuất hàng:
-      
-    TThuật toán:
+    
+    Các ký hiệu:
+    D1: Tên đại lý, các mặt hàng và đơn vị tính, số lượng, đơn giá tương ứng cho loại mặt hàng đó.
+    D2: Không có.
+    D3: Danh sách các loại mặt hàng, loại đơn vị tính.
+    D4: Tổng số tiền đại lý cần trả.
+    D5: D1 và ngày lập phiếu.
+    D6: D5.
+
+    Thuật toán:
     Bước 1: Nhập D1 từ người dung.
     Bước 2: Kết nối cơ sở dữ liệu.
     Bước 3: Đọc dữ liệu D3 từ bộ nhớ phụ.
@@ -74,7 +81,15 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
                                 
 
    3. Tra cứu đại lý:
-    
+   
+    Các ký hiệu:
+    D1: Tên đại lý hoặc tên quận cần tìm.
+    D2: Không có.
+    D3: Danh sách các loại đại lý cần tìm, loại, quận và tiền nợ của đại lý đó.
+    D4: Không có.
+    D5: D3.
+    D6: D5.
+
     Thuật toán:
     Bước 1: Nhập D1 từ người dùng.
     Bước 2: Kết nối cơ sở dữ liệu.
@@ -89,6 +104,14 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
    4. Lập phiếu thu tiền
     
+    Các ký hiệu:
+    D1: Tên đại lý, địa chỉ, điện thoại, email, số tiền thu.
+    D2: Không có.
+    D3: Danh sách các đại lý đang thu tiền.
+    D4: Số tiền đã thu được.
+    D5: D1 và ngày thu tiền.
+    D6: D5.
+ 
     Thuật toán:
     Bước 1: Nhập D1 từ người dùng.
     Bước 2: Kết nối cơ sở dữ liệu.
@@ -106,6 +129,14 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
    5. Báo cáo doanh số
    
+    Các ký hiệu:
+    D1: Tháng cần báo cáo.
+    D2: Không có.
+    D3: Danh sách các đại lý, số phiếu xuất, tổng giá trị và tỷ lệ.
+    D4: Không có.
+    D5: D3 và tháng cần báo cáo.
+    D6: D5.
+
     Thuật toán:
     Bước 1: Nhập D1 từ người dùng.
     Bước 2: Kết nối cơ sở dữ liệu.
@@ -120,6 +151,14 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
    6. Báo cáo công nợ
    
+    Các ký hiệu:
+    D1: Tháng cần báo cáo.
+    D2: Không có.
+    D3: Danh sách các đại lý, nợ đầu, phát sinh và nợ cuối.
+    D4: Không có.
+    D5: D3 và tháng cần báo cáo.
+    D6: D5.
+
     Thuật toán:
     Bước 1: Nhập D1 từ người dùng.
     Bước 2: Kết nối cơ sở dữ liệu.
