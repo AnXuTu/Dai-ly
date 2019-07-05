@@ -47,20 +47,21 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
           +    Khu quản lý kho: trực tiếp việc kiểm tra hàng hóa, nhập hàng và phần phối xuất hàng và sản phẩm đến các đại lý.
           +    Phòng tài chính - Marketing: sẽ chịu trách nhiệm trong việc lập báo các doanh số của các đại lý, sản phẩm nào bán được và bán không được và công nợ của các đại lý và đồng thời quảng cáo các sản phẩm mới tới các đại lý.
 
-    Đối ngoại:
+      Đối ngoại:
      +    Phòng kinh tế-đối ngoại có chức năng trong việc
+     
      +    Phòng kế toán: chủ yếu lập phiếu thu tiền và thu tiền từ các đại lý.
                
-  •Tìm sản phẩm và nguồn hàng mới.
+       •  Tìm sản phẩm và nguồn hàng mới.
   
   
-  •Tìm nhà cung cấp có các mặt hàng tốt, giá thành hợp lý và phù hợp nhu cầu thị trường.
+      •  Tìm nhà cung cấp có các mặt hàng tốt, giá thành hợp lý và phù hợp nhu cầu thị trường.
   
   
-  •Tổ chức các sự kiện lớn và nhỏ để tăng liên kết với khách hàng.
+       •  Tổ chức các sự kiện lớn và nhỏ để tăng liên kết với khách hàng.
   
   
-  •Kêu gọi vốn đầu tư từ các công ty khác.
+       •  Kêu gọi vốn đầu tư từ các công ty khác.
 
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
