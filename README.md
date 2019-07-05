@@ -68,10 +68,11 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
  
   **1.2.Hiện trạng nghiệp vụ:**
      
-     
-     
+![ho_so_dai_ly_1](https://user-images.githubusercontent.com/48848147/60740753-0e452e80-9f91-11e9-89de-8715fcb42b07.JPG)
+
+![ho_so_dai_ly_2](https://user-images.githubusercontent.com/48848147/60740754-0e452e80-9f91-11e9-8299-532ca928e8e4.JPG)
           
-      Tiếp nhận đại lý: 
+   Tiếp nhận đại lý: 
   -	Tiếp nhận hồ sơ đại lý .
   -	Kiểm tra đại lý thuộc loại 1 hay 2.
   -	Kiểm tra tình trạng quận tiếp nhận đại lý.
@@ -79,7 +80,9 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   -	Kết thúc tiếp nhận đại lý.
 
           
-          
+![phieu_xuat_hang_1](https://user-images.githubusercontent.com/48848147/60740780-274ddf80-9f91-11e9-955e-5abc49d47f96.JPG)
+
+![phieu_xuat_hang_2](https://user-images.githubusercontent.com/48848147/60740781-274ddf80-9f91-11e9-9144-2376e479ca83.JPG)   
           
   	Lập phiếu xuất hàng:
   -	Kiểm tra loại đại lý.
@@ -88,15 +91,21 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   -	Nếu tiền nợ chưa vượt quá mức quy định, thống kê mặt hàng cần xuất theo đơn vị tính tương ứng.
   -	Kết thúc lập phiếu xuất hàng.
 
+![tra_cuu_dai_ly_1](https://user-images.githubusercontent.com/48848147/60740782-27e67600-9f91-11e9-884e-1c184b7492a9.JPG)
 
-  	Lập hóa phiếu thu tiền:
+   Tra cứu đại lý
+  
+![phieu_thu_tien](https://user-images.githubusercontent.com/48848147/60740783-27e67600-9f91-11e9-8b0c-bab3e81238dc.JPG)
+
+  	Lập phiếu thu tiền:
   -	Tổng hợp và thống kê thông tin đại lý cần lập hóa phiếu.
   -	Kiểm tra số tiền thu.
   -	Nếu tiền thu vượt quá tiền nợ, kết thúc lập hóa phiếu thu tiền.
   -	Nếu tiền thu bé hơn hoặc bằng số tiền nợ, kiểm tra ngày thu và lập hóa phiếu.
   -	Kết thúc lập hóa phiếu thu tiền.
      
-     
+![bao_cao_thang](https://user-images.githubusercontent.com/48848147/60740784-27e67600-9f91-11e9-80d4-78344cee504c.JPG)
+
   	Lập báo cáo tháng: (Văn phòng)
   -	Thống kê phiếu xuất hàng trong tháng.
   -	Tính tổng giá trị các phiếu xuất hàng của từng đại lý.
@@ -108,7 +117,8 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   -	Từ 2 thông tin trên tính số nợ cuối cùng.
   -	Lập báo cáo công nợ đại lý.
      
-     
+![quy_dinh](https://user-images.githubusercontent.com/48848147/60740785-287f0c80-9f91-11e9-9fc1-bb99034282ab.JPG)
+
   	Thay đổi quy định gồm 1 quy trình (văn phòng)
   -	Nghiệp vụ chủ yếu là của các nhân viên văn phòng yêu cầu có kĩ thuật về công nghệ.
 
