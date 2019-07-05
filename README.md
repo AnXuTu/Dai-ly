@@ -38,10 +38,10 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
         _ Khảo sát hiện trạng về việc giám sát các hoạt động của các đại lý tạp hóa.
         
      1.1.	Hiện trạng tổ chức
-      
-        + Tổ chức bao gồm Giám đốc, Phó Giám Đốc, Phòng kế toán, Phòng tiếp nhận hồ sơ, Quản lý kho, Kinh tế & đối ngoại và Phòng tài chính Marketing.
+       
+   + Tổ chức bao gồm Giám đốc, Phó Giám Đốc, Phòng kế toán, Phòng tiếp nhận hồ sơ, Quản lý kho, Kinh tế & đối ngoại và Phòng tài chính Marketing.
 
-        + Sơ đồ cơ cấu tổ chức :
+   + Sơ đồ cơ cấu tổ chức :
         ![sơ đồ](https://user-images.githubusercontent.com/48848147/60735563-22336500-9f7e-11e9-9b72-cf6808fe47fe.JPG)
 
 	Đối nội:
