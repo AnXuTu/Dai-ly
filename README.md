@@ -160,7 +160,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   
 ## Chương 2: Phân tích
 
-
+  **1. FDD**
      
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
