@@ -63,13 +63,17 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
      •	Kêu gọi vốn đầu tư từ các công ty khác.
      
- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
  
      1.2.  Hiện trạng nghiệp vụ:
           
-          
-          
-          
+         Tiếp nhận đại lý: 
+     -	Tiếp nhận hồ sơ đại lý .
+     -	Kiểm tra đại lý thuộc loại 1 hay 2.
+     -	Kiểm tra tình trạng quận tiếp nhận đại lý.
+     -	Xây dựng đại lý.
+     -	Kết thúc tiếp nhận đại lý.
+
           
           
           
