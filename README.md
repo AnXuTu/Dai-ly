@@ -31,8 +31,16 @@ SQL Server Management Studio Express2012 - quản lý cơ sở dữ liệu
 
 Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJUIukjYQgXgU-J2p37JVS_dMMiMlSxhR_xjSIlzdyYnHufY9D5cc5i4
 
-># IV. DATA FLOW DIAGRAM:
-  
+># III. BÁO CÁO:
+     ## CHƯƠNG 1: HIỆN TRẠNG: 
+  1.	Khảo sát hiện trạng:
+Khảo sát hiện trạng về việc giám sát các hoạt động của các đại lý tạp hóa.
+1.1.	Hiện trạng tổ chức
+
+	Tổ chức bao gồm Giám đốc, Phó Giám Đốc, Phòng kế toán, Phòng tiếp nhận hồ sơ, Quản lý kho, Kinh tế & đối ngoại và Phòng tài chính Marketing.
+
+	Sơ đồ cơ cấu tổ chức :
+
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
     
