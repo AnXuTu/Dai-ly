@@ -66,7 +66,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      
 
  
-     1.2.  Hiện trạng nghiệp vụ:
+     1.2.       Hiện trạng nghiệp vụ:
           
          Tiếp nhận đại lý: 
      -	Tiếp nhận hồ sơ đại lý .
