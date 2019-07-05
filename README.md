@@ -49,6 +49,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
     Đối ngoại:
      +    Phòng kinh tế-đối ngoại có chức năng trong việc
+     +    Phòng kế toán: chủ yếu lập phiếu thu tiền và thu tiền từ các đại lý.
                
   •Tìm sản phẩm và nguồn hàng mới.
   
