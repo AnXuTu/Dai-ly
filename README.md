@@ -51,7 +51,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
 	Đối ngoại:
 
-+	Phòng kinh tế-đối ngoại có chức năng trong việc
++	Phòng kinh tế-đối ngoại có chức năng trong việc:
 
      •	 tìm sản phẩm và nguồn hàng mới.
 
@@ -60,7 +60,18 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      •	Tổ chức các sự kiện lớn và nhỏ để tăng liên kết với khách hàng.
 
      •	Kêu gọi vốn đầu tư từ các công ty khác.
-     
+          1.2.	Hiện trạng nghiệp vụ:
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
      
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
