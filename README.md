@@ -31,10 +31,11 @@ SQL Server Management Studio Express2012 - quản lý cơ sở dữ liệu
 
 Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJUIukjYQgXgU-J2p37JVS_dMMiMlSxhR_xjSIlzdyYnHufY9D5cc5i4
 
-># III. BÁO CÁO:
-     ## CHƯƠNG 1: HIỆN TRẠNG: 
+># III BÁO CÁO:
+
+ ## CHƯƠNG 1: HIỆN TRẠNG: 
   
-  1.	Khảo sát hiện trạng:
+ ###1.	Khảo sát hiện trạng:
         _ Khảo sát hiện trạng về việc giám sát các hoạt động của các đại lý tạp hóa.
         
    **1.1 Hiện trạng tổ chức**
