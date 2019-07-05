@@ -88,6 +88,33 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      -	Nếu tiền nợ chưa vượt quá mức quy định, thống kê mặt hàng cần xuất theo đơn vị tính tương ứng.
      -	Kết thúc lập phiếu xuất hàng.
 
+
+     	Lập hóa phiếu thu tiền:
+     -	Tổng hợp và thống kê thông tin đại lý cần lập hóa phiếu.
+     -	Kiểm tra số tiền thu.
+     -	Nếu tiền thu vượt quá tiền nợ, kết thúc lập hóa phiếu thu tiền.
+     -	Nếu tiền thu bé hơn hoặc bằng số tiền nợ, kiểm tra ngày thu và lập hóa phiếu.
+     -	Kết thúc lập hóa phiếu thu tiền.
+     
+     
+     	Lập báo cáo tháng: (Văn phòng)
+     -	Thống kê phiếu xuất hàng trong tháng.
+     -	Tính tổng giá trị các phiếu xuất hàng của từng đại lý.
+     -	Tính tỷ lệ giá trị phiếu xuất hàng của mỗi đại lý.
+     -	Lập báo cáo doanh số.
+     -	Thống kê hóa phiếu thu tiền trong tháng.
+     -	Thống kê số nợ đầu tháng.
+     -	Thống kê số nợ phát sinh trong tháng.
+     -	Từ 2 thông tin trên tính số nợ cuối cùng.
+     -	Lập báo cáo công nợ đại lý.
+     
+     
+     	Thay đổi quy định gồm 1 quy trình (văn phòng)
+     -	Nghiệp vụ chủ yếu là của các nhân viên văn phòng yêu cầu có kĩ thuật về công nghệ.
+
+
+
+
      
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
