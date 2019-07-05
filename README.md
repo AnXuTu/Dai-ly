@@ -41,7 +41,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
         + Sơ đồ cơ cấu tổ chức :
         ![sơ đồ](https://user-images.githubusercontent.com/48848147/60735563-22336500-9f7e-11e9-9b72-cf6808fe47fe.JPG)
-    	Đối nội:
+   	Đối nội:
 +	Phòng kế toán: chủ yếu lập phiếu thu tiền và thu tiền từ các đại lý.
 +	Phòng tiếp nhận hồ sơ: khi có một hồ sơ được gửi tới để đăng ký trở thành đại lý tạp hóa.
 +	Khu quản lý kho: trực tiếp việc kiểm tra hàng hóa, nhập hàng và phần phối xuất hàng và sản phẩm đến các đại lý.
