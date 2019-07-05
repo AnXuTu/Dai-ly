@@ -397,6 +397,16 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
 •	Cho phép người dùng sửa thông tin về tên quận và số đại lý tối đa của mỗi quận.
 
+## CHƯƠNG 4: CÀI ĐẶT
+
+**1.	Công nghệ sử dụng: Visual studio 2017, SQL Sever 2012 Express.**
+**2.	Vấn đề khi cài đặt:**
++	Thời gian cài đặt visual lâu: hơn 1 tiếng.
++	Phải gỡ cài đặt lại một lần SQL Sever 2012 Express
+**3.	Mô tả giải pháp & kỹ thuật:**
++	Cần tìm hiểu và có một chút kiến thức khi cài đặt SQL Server 2012 Express.
++	Phải có mạng và wifi mạnh để download nhanh hơn.
+
 
 # V. Example:   
 # VI. FAQ & Usage:
