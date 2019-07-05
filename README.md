@@ -51,13 +51,13 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
 +	Phòng kinh tế-đối ngoại có chức năng trong việc
 
-•	 tìm sản phẩm và nguồn hàng mới.
+     •	 tìm sản phẩm và nguồn hàng mới.
 
-•	Tìm nhà cung cấp có các mặt hàng tốt, giá thành hợp lý và phù hợp nhu cầu thị trường.
+     •	Tìm nhà cung cấp có các mặt hàng tốt, giá thành hợp lý và phù hợp nhu cầu thị trường.
 
-•	Tổ chức các sự kiện lớn và nhỏ để tăng liên kết với khách hàng.
+     •	Tổ chức các sự kiện lớn và nhỏ để tăng liên kết với khách hàng.
 
-•	Kêu gọi vốn đầu tư từ các công ty khác.
+     •	Kêu gọi vốn đầu tư từ các công ty khác.
      
      
    Tiếp nhận đại lý:
