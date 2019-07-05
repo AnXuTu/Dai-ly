@@ -311,18 +311,13 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
     Bước 9: Kết thúc.
     
 
-
-
-
-
-
-
-
-
-
-
 **3. ERD:**   
 ![New](https://user-images.githubusercontent.com/48848147/60738665-552f2600-9f89-11e9-940c-40e4310d8f94.png)
+
+## Chương 3: Thiết kế
+**1. Thiết kế kiến trúc:**
+**a.	Mô hình tổng thể kiến trúc: Mô hình 3 lớp MVVM.**
+
 
 # V. Example:   
 # VI. FAQ & Usage:
