@@ -49,7 +49,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 +	Phòng tài chính - Marketing: sẽ chịu trách nhiệm trong việc lập báo các doanh số của các đại lý, sản phẩm nào bán được và bán không được và công nợ của các đại lý và đồng thời quảng cáo các sản phẩm mới tới các đại lý.
 
 
-     	Đối ngoại:
+	Đối ngoại:
 
 +	Phòng kinh tế-đối ngoại có chức năng trong việc
 
