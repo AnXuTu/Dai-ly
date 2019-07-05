@@ -164,6 +164,8 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      ![New](https://user-images.githubusercontent.com/48848147/60738665-552f2600-9f89-11e9-940c-40e4310d8f94.png)
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
+  + BẢNG MÔ TẢ CHỨC NĂNG:
+  
     
     Các ký hiệu:
     D1: Tên đại lý, loại đại lý, địa chỉ, điện thoại, ngày tiếp nhận, email.
