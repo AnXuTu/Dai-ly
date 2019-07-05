@@ -316,7 +316,67 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
 ## Chương 3: Thiết kế
 **1. Thiết kế kiến trúc:**
-**a.	Mô hình tổng thể kiến trúc: Mô hình 3 lớp MVVM.**
+
+**a.	Mô hình tổng thể kiến trúc:**
+
+ Mô hình 3 lớp MVVM.
+![3_lop](https://user-images.githubusercontent.com/48848147/60739665-04213100-9f8d-11e9-8411-6e04fd83d7ef.JPG)
+
+**b.	Danh sách các component:**
+
+**c.	Tương tác/giao tiếp giữa các component:**
+
+**2.	Thiết kế lớp - sơ đồ lớp ở mức thiết kế:**
+![so_do_lop](https://user-images.githubusercontent.com/48848147/60739691-1f8c3c00-9f8d-11e9-9d0d-d635bcbe7476.JPG)
+
+**3.	Thiết kế giao diện:**
+
+	Sơ đồ liên kết màn hình: 
+
+![man_hinh_chinh](https://user-images.githubusercontent.com/48848147/60739736-48143600-9f8d-11e9-958d-e55fc0527f70.JPG)
+
+	Mô tả xử lý sự kiện từng màn hình:
+
++	Màn hình đăng nhập:
+
+![dang_nhap](https://user-images.githubusercontent.com/48848147/60739775-5f532380-9f8d-11e9-8987-834d17b93629.JPG)
+•	Màn hình “Đăng nhập”: Nhân viên điền tên đăng nhập và mật khẩu (đã cấp trước đó), sau đó nhấn phím “Đăng nhập” hoặc “Enter” trên bàn phím thì sẽ login được vào màn hình chính. Nếu nhấn nút “Thoát” thì tự động đóng phần mềm
+
++	Màn hình chính:
+![man_hinh_chinh_2](https://user-images.githubusercontent.com/48848147/60739992-2d8e8c80-9f8e-11e9-96c3-f005e22b9e41.JPG)
+•	Màn hình “chính”: Dùng để lựa chọn những thao cần thực hiện.
+
++	Màn hình Hồ sơ đại lý:
+![tiep_nhan](https://user-images.githubusercontent.com/48848147/60739999-354e3100-9f8e-11e9-8250-69448bc03770.JPG)
+•	Cho phép người dùng thêm , xóa và sửa đại lý và thông tin liên quan.
+
++	Màn hình phiếu xuất hàng:
+![phieu_xuat_hang](https://user-images.githubusercontent.com/48848147/60740007-3bdca880-9f8e-11e9-96f9-132bb80e4b4b.JPG)
+•	Cho phép người dùng thêm, xóa và sửa thông tin về mặt hàng và số lượng đã được mua của từng đại lý.
+
++	Màn hình phiếu thu tiền:
+![phieu_thu_tien](https://user-images.githubusercontent.com/48848147/60740017-46973d80-9f8e-11e9-9bbb-06a9d9d63540.JPG)
+•	Cho phép người dùng thêm, xóa và sửa thông tin về số tiền thu của từng đại lý.
+
++	Màn hình danh sách đại lý:
+![danh_sach_dai_ly](https://user-images.githubusercontent.com/48848147/60740018-46973d80-9f8e-11e9-9989-fd5af3682ddc.JPG)
+•	Cho phép người dùng load thông tin về số nợ của từng đại lý.
+
++	Màn hình báo cáo doanh số:
+![bao_cao_doanh_so](https://user-images.githubusercontent.com/48848147/60740019-46973d80-9f8e-11e9-98e5-4980718cb1d4.JPG)
+•	Cho phép người dùng nhập tháng và load những đại lý nào đã xuất hàng , tổng giá trị của số hàng đã xuất và tỷ lệ bao nhiêu phần trăm so với tổng thể của thắng được xem.
+
++	Công nợ đại lý:
+![bao_cao_cong_no](https://user-images.githubusercontent.com/48848147/60740021-472fd400-9f8e-11e9-8593-e799809ce20e.JPG)
+•	Cho phép người dùng nhập tháng và load thông tin số nợ đầu tiên , phát sinh và tổng nợ của từng đại lý.
+
++	Màn hình loại đại lý :
+![loai_dai_ly](https://user-images.githubusercontent.com/48848147/60740022-472fd400-9f8e-11e9-924c-51fde2b6b638.JPG)
+•	Cho phép người dùng thêm và sửa thông tin loại đại lý  và tiền nợ tối đa của từng loại đại lý.
+
++	Màn hình quận:
+![quan](https://user-images.githubusercontent.com/48848147/60740023-472fd400-9f8e-11e9-83d3-ff546377604d.JPG)
+•	Cho phép người dùng sửa thông tin về tên quận và số đại lý tối đa của mỗi quận.
 
 
 # V. Example:   
