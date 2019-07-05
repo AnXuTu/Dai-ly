@@ -67,6 +67,9 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
  
      1.2.       Hiện trạng nghiệp vụ:
+     
+     
+     
           
          Tiếp nhận đại lý: 
      -	Tiếp nhận hồ sơ đại lý .
@@ -78,10 +81,13 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
           
           
           
-          
-          
-          
-          
+     	Lập phiếu xuất hàng:
+     -	Kiểm tra loại đại lý.
+     -	Kiểm tra tiền nợ của đại lý.
+     -	Nếu tiền nợ vượt quá mức quy định, kết thúc lập phiếu xuất hàng.
+     -	Nếu tiền nợ chưa vượt quá mức quy định, thống kê mặt hàng cần xuất theo đơn vị tính tương ứng.
+     -	Kết thúc lập phiếu xuất hàng.
+
      
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
