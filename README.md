@@ -163,7 +163,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   **1. FDD**
      ![New](https://user-images.githubusercontent.com/48848147/60738665-552f2600-9f89-11e9-940c-40e4310d8f94.png)
      + BẢNG MÔ TẢ CHỨC NĂNG:
-     
+     ![chuc_nang_1](https://user-images.githubusercontent.com/48848147/60738984-5ca2ff00-9f8a-11e9-8cae-1310517c5bd2.JPG)
      
      
    Tiếp nhận đại lý:
