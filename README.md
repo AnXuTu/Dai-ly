@@ -33,9 +33,10 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
 ># III. BÁO CÁO:
      ## CHƯƠNG 1: HIỆN TRẠNG: 
+  
   1.	Khảo sát hiện trạng:
         _ Khảo sát hiện trạng về việc giám sát các hoạt động của các đại lý tạp hóa.
-          1.1.	Hiện trạng tổ chức
+     1.1.	Hiện trạng tổ chức
           
         + Tổ chức bao gồm Giám đốc, Phó Giám Đốc, Phòng kế toán, Phòng tiếp nhận hồ sơ, Quản lý kho, Kinh tế & đối ngoại và Phòng tài chính Marketing.
 
@@ -60,7 +61,8 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      •	Tổ chức các sự kiện lớn và nhỏ để tăng liên kết với khách hàng.
 
      •	Kêu gọi vốn đầu tư từ các công ty khác.
-          1.2.	Hiện trạng nghiệp vụ:
+          
+     1.2.	Hiện trạng nghiệp vụ:
           
           
           
