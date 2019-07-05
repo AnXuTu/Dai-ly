@@ -113,6 +113,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      -	Nghiệp vụ chủ yếu là của các nhân viên văn phòng yêu cầu có kĩ thuật về công nghệ.
 
      **1.3.	Hiện trạng tin học:**
+     
      	Phần cứng:
      +	Số lượng máy tính: Mỗi văn phòng tối thiểu 15-20 PC. Riêng nhà kho có khoảng 5 máy
      +	Tối thiểu 1 máy server.
@@ -129,7 +130,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      +	Một nhân viên chuyên về lắp ráp và sửa chữa máy tính.
      	Kết luận: tuần suất làm việc liên tục 8 tiếng một ngày từ thứ 2 đến thứ 6. Nên công ty quản lý và phân phối đại lý cũng đang cần một phần mềm tiện dụng, dễ sử dụng, dễ quản lý, và nhanh chóng sử lý các công việc của công ty. 
 
-  **2.	YÊU CẦU PHẦN MỀM**
+  **2	YÊU CẦU PHẦN MỀM**
 
     Yêu cầu nghiệp vụ:
 
