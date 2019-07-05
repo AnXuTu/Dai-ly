@@ -40,7 +40,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
         + Tổ chức bao gồm Giám đốc, Phó Giám Đốc, Phòng kế toán, Phòng tiếp nhận hồ sơ, Quản lý kho, Kinh tế & đối ngoại và Phòng tài chính Marketing.
 
         + Sơ đồ cơ cấu tổ chức :
-        
+        ![sơ đồ](https://user-images.githubusercontent.com/48848147/60735563-22336500-9f7e-11e9-9b72-cf6808fe47fe.JPG)
 
    Tiếp nhận đại lý:
     ![tiep_nhan_dai_ly](https://user-images.githubusercontent.com/48848147/60590935-734d2880-9dc7-11e9-9444-7625b4251da4.JPG)
