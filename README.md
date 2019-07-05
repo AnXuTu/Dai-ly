@@ -112,6 +112,22 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      	Thay đổi quy định gồm 1 quy trình (văn phòng)
      -	Nghiệp vụ chủ yếu là của các nhân viên văn phòng yêu cầu có kĩ thuật về công nghệ.
 
+     1.3.	     Hiện trạng tin học:
+     	Phần cứng:
+     +	Số lượng máy tính: Mỗi văn phòng tối thiểu 15-20 PC. Riêng nhà kho có khoảng 5 máy
+     +	Tối thiểu 1 máy server.
+     +	Cấu hình: Đáp ứng được các tác vụ yêu cầu.
+     +	Có mạng LAN nội bộ công ty và mạng wifi.
+     +	Một máy tính tiền và 1 PC cho mỗi đại lý có trang web của nhà quản lý và phân phối đại lý.
+     	Phần mềm:
+     +	Có một trang web riêng giới thiệu về các sản phẩm và thông tin công ty.
+     +	Có hệ quản trị cơ sở dữ liệu SQL & Database.
+     +	Đủ các phần mềm cần thiết và có bản quyền.
+     +	Sử dụng word và excel để tính toán và lưu thông tin các đại lý và các dữ liệu khác.
+     	Tin học:
+     +	Tối thiểu 1 nhân viên lập trình, bảo trì, nâng cấp, quản lý web và server.
+     +	Một nhân viên chuyên về lắp ráp và sửa chữa máy tính.
+     	Kết luận: tuần suất làm việc liên tục 8 tiếng một ngày từ thứ 2 đến thứ 6. Nên công ty quản lý và phân phối đại lý cũng đang cần một phần mềm tiện dụng, dễ sử dụng, dễ quản lý, và nhanh chóng sử lý các công việc của công ty. 
 
 
 
