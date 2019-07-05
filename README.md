@@ -63,7 +63,7 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
      •	Kêu gọi vốn đầu tư từ các công ty khác.
           
-     1.2.	Hiện trạng nghiệp vụ:
+          1.2.	Hiện trạng nghiệp vụ:
           
           
           
