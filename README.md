@@ -134,6 +134,9 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
   **2.	YÊU CẦU PHẦN MỀM**
 
   **2.1 Yêu cầu nghiệp vụ:**
+  **2.2	Yêu cầu chất lượng:**
+   **Danh sách các yêu cầu chất lượng**
+
 
 
      
