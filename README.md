@@ -145,28 +145,29 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
 
   **2.1 Yêu cầu nghiệp vụ:**
   
+  ![nghiep_vu_1](https://user-images.githubusercontent.com/48848147/60741230-d3dc9100-9f92-11e9-8cd7-851c577b6c80.JPG)
   
-  
-  
+![nghiep_vu_2](https://user-images.githubusercontent.com/48848147/60741231-d3dc9100-9f92-11e9-9540-c9a8cd350605.JPG)
+
   **2.2	Yêu cầu chất lượng:**
    
   ** Danh sách các yêu cầu chất lượng**
   
-  
+  ![chat_luong](https://user-images.githubusercontent.com/48848147/60741232-d4752780-9f92-11e9-8418-eaceadf54c7f.JPG)
   
    ** Bảng trách nhiệm yêu cầu chất lượng**
-  
-  
-  
+   
+  ![tien_hoa](https://user-images.githubusercontent.com/48848147/60741233-d4752780-9f92-11e9-99b6-76d4742bb0d2.JPG)
   
   **2.3 YÊU CẦU  HỆ THỐNG**
   
   ** Danh sách các yêu cầu hệ thống**
   
-  
-  
-  ** Bảng trách nhiệm yêu cầu hệ thống**
+![he_thong_1](https://user-images.githubusercontent.com/48848147/60741235-d4752780-9f92-11e9-8ec0-736ca4bd45cb.JPG)
 
+  ** Bảng trách nhiệm yêu cầu hệ thống**
+  
+![he_thong_2](https://user-images.githubusercontent.com/48848147/60741236-d50dbe00-9f92-11e9-9f23-5df765e59911.JPG)
   
 ## Chương 2: Phân tích
 
