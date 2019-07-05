@@ -71,65 +71,65 @@ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJU
      
      
           
-         Tiếp nhận đại lý: 
-     -	Tiếp nhận hồ sơ đại lý .
-     -	Kiểm tra đại lý thuộc loại 1 hay 2.
-     -	Kiểm tra tình trạng quận tiếp nhận đại lý.
-     -	Xây dựng đại lý.
-     -	Kết thúc tiếp nhận đại lý.
+      Tiếp nhận đại lý: 
+  -	Tiếp nhận hồ sơ đại lý .
+  -	Kiểm tra đại lý thuộc loại 1 hay 2.
+  -	Kiểm tra tình trạng quận tiếp nhận đại lý.
+  -	Xây dựng đại lý.
+  -	Kết thúc tiếp nhận đại lý.
 
           
           
           
-     	Lập phiếu xuất hàng:
-     -	Kiểm tra loại đại lý.
-     -	Kiểm tra tiền nợ của đại lý.
-     -	Nếu tiền nợ vượt quá mức quy định, kết thúc lập phiếu xuất hàng.
-     -	Nếu tiền nợ chưa vượt quá mức quy định, thống kê mặt hàng cần xuất theo đơn vị tính tương ứng.
-     -	Kết thúc lập phiếu xuất hàng.
+  	Lập phiếu xuất hàng:
+  -	Kiểm tra loại đại lý.
+  -	Kiểm tra tiền nợ của đại lý.
+  -	Nếu tiền nợ vượt quá mức quy định, kết thúc lập phiếu xuất hàng.
+  -	Nếu tiền nợ chưa vượt quá mức quy định, thống kê mặt hàng cần xuất theo đơn vị tính tương ứng.
+  -	Kết thúc lập phiếu xuất hàng.
 
 
-     	Lập hóa phiếu thu tiền:
-     -	Tổng hợp và thống kê thông tin đại lý cần lập hóa phiếu.
-     -	Kiểm tra số tiền thu.
-     -	Nếu tiền thu vượt quá tiền nợ, kết thúc lập hóa phiếu thu tiền.
-     -	Nếu tiền thu bé hơn hoặc bằng số tiền nợ, kiểm tra ngày thu và lập hóa phiếu.
-     -	Kết thúc lập hóa phiếu thu tiền.
+  	Lập hóa phiếu thu tiền:
+  -	Tổng hợp và thống kê thông tin đại lý cần lập hóa phiếu.
+  -	Kiểm tra số tiền thu.
+  -	Nếu tiền thu vượt quá tiền nợ, kết thúc lập hóa phiếu thu tiền.
+  -	Nếu tiền thu bé hơn hoặc bằng số tiền nợ, kiểm tra ngày thu và lập hóa phiếu.
+  -	Kết thúc lập hóa phiếu thu tiền.
      
      
-     	Lập báo cáo tháng: (Văn phòng)
-     -	Thống kê phiếu xuất hàng trong tháng.
-     -	Tính tổng giá trị các phiếu xuất hàng của từng đại lý.
-     -	Tính tỷ lệ giá trị phiếu xuất hàng của mỗi đại lý.
-     -	Lập báo cáo doanh số.
-     -	Thống kê hóa phiếu thu tiền trong tháng.
-     -	Thống kê số nợ đầu tháng.
-     -	Thống kê số nợ phát sinh trong tháng.
-     -	Từ 2 thông tin trên tính số nợ cuối cùng.
-     -	Lập báo cáo công nợ đại lý.
+  	Lập báo cáo tháng: (Văn phòng)
+  -	Thống kê phiếu xuất hàng trong tháng.
+  -	Tính tổng giá trị các phiếu xuất hàng của từng đại lý.
+  -	Tính tỷ lệ giá trị phiếu xuất hàng của mỗi đại lý.
+  -	Lập báo cáo doanh số.
+  -	Thống kê hóa phiếu thu tiền trong tháng.
+  -	Thống kê số nợ đầu tháng.
+  -	Thống kê số nợ phát sinh trong tháng.
+  -	Từ 2 thông tin trên tính số nợ cuối cùng.
+  -	Lập báo cáo công nợ đại lý.
      
      
-     	Thay đổi quy định gồm 1 quy trình (văn phòng)
-     -	Nghiệp vụ chủ yếu là của các nhân viên văn phòng yêu cầu có kĩ thuật về công nghệ.
+  	Thay đổi quy định gồm 1 quy trình (văn phòng)
+  -	Nghiệp vụ chủ yếu là của các nhân viên văn phòng yêu cầu có kĩ thuật về công nghệ.
 
   **1.3.	Hiện trạng tin học:**
      
-     	Phần cứng:
-     +	Số lượng máy tính: Mỗi văn phòng tối thiểu 15-20 PC. Riêng nhà kho có khoảng 5 máy
-     +	Tối thiểu 1 máy server.
-     +	Cấu hình: Đáp ứng được các tác vụ yêu cầu.
-     +	Có mạng LAN nội bộ công ty và mạng wifi.
-     +	Một máy tính tiền và 1 PC cho mỗi đại lý có trang web của nhà quản lý và phân phối đại lý.
-     	Phần mềm:
-     +	Có một trang web riêng giới thiệu về các sản phẩm và thông tin công ty.
-     +	Có hệ quản trị cơ sở dữ liệu SQL & Database.
-     +	Đủ các phần mềm cần thiết và có bản quyền.
-     +	Sử dụng word và excel để tính toán và lưu thông tin các đại lý và các dữ liệu khác.
-     	Tin học:
-     +	Tối thiểu 1 nhân viên lập trình, bảo trì, nâng cấp, quản lý web và server.
-     +	Một nhân viên chuyên về lắp ráp và sửa chữa máy tính.
+  	Phần cứng:
+  +	Số lượng máy tính: Mỗi văn phòng tối thiểu 15-20 PC. Riêng nhà kho có khoảng 5 máy
+  +	Tối thiểu 1 máy server.
+  +	Cấu hình: Đáp ứng được các tác vụ yêu cầu.
+  +	Có mạng LAN nội bộ công ty và mạng wifi.
+  +	Một máy tính tiền và 1 PC cho mỗi đại lý có trang web của nhà quản lý và phân phối đại lý.
+  	Phần mềm:
+  +	Có một trang web riêng giới thiệu về các sản phẩm và thông tin công ty.
+  +	Có hệ quản trị cơ sở dữ liệu SQL & Database.
+  +	Đủ các phần mềm cần thiết và có bản quyền.
+  +	Sử dụng word và excel để tính toán và lưu thông tin các đại lý và các dữ liệu khác.
+  	Tin học:
+  +	Tối thiểu 1 nhân viên lập trình, bảo trì, nâng cấp, quản lý web và server.
+  +	Một nhân viên chuyên về lắp ráp và sửa chữa máy tính.
      
-     	Kết luận: tuần suất làm việc liên tục 8 tiếng một ngày từ thứ 2 đến thứ 6. Nên công ty quản lý và phân phối đại lý cũng đang cần một phần mềm tiện dụng, dễ sử dụng, dễ quản lý, và nhanh chóng sử lý các công việc của công ty. 
+  	Kết luận: tuần suất làm việc liên tục 8 tiếng một ngày từ thứ 2 đến thứ 6. Nên công ty quản lý và phân phối đại lý cũng đang cần một phần mềm tiện dụng, dễ sử dụng, dễ quản lý, và nhanh chóng sử lý các công việc của công ty. 
 
   **2.	YÊU CẦU PHẦN MỀM**
 
