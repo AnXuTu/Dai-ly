@@ -1,0 +1,218 @@
+﻿<Window x:Class="QuanLyDaiLi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyDaiLi"
+        mc:Ignorable="d"
+         xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        
+        xmlns:uc="clr-namespace:QuanLyDaiLi.UserControlLogin"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        
+        Name="mainWindow"
+        DataContext="{StaticResource MainVM}"
+        Title="Phần mềm quản lý đại lí" Height="300" Width="960">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding LoadedWindowCommand}" CommandParameter="{Binding ElementName=mainWindow}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title, ElementName=mainWindow}"></uc:ControlBarUC>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <!--menu-->
+            <Grid Grid.Row="0">
+                <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Background="Transparent">
+                    <Grid.Resources>
+                        <Style TargetType="Button">
+                            <Setter Property="Margin" Value="2 4 2 4"></Setter>
+                            <Setter Property="Background" Value="LightCyan"></Setter>
+                        </Style>
+                    </Grid.Resources>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button Command="{Binding HoSoDaiLyCommand}" Grid.Column="0" ToolTip="Hồ sơ đại lý">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Hồ sơ đại lý" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <materialDesign:PackIcon HorizontalAlignment="Center" Width="24" Height="24"  Kind="AccountCardDetails" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                    <Button Command="{Binding PhieuXuatHangCommand}" Grid.Column="1" ToolTip="Phiếu xuất hàng">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Phiếu xuất hàng" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="ArrowDownBoldBox" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                    <Button Grid.Column="2" Command="{Binding PhieuThuTienCommand}" ToolTip="Phiếu thu tiền">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Phiếu thu tiền" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="NoteText" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                    <Button Grid.Column="6" Command="{Binding QuyDinhCommand}" ToolTip="Quy định">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Quy định" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="BookOpen" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                    <Button Grid.Column="4" Command="{Binding BaoCaoDoanhSoCommand}" ToolTip="báo cáo doanh số">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Báo Cáo Doanh Số" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1" Height="24" VerticalAlignment="Bottom">
+                                <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="CashMultiple" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                    <Button Grid.Column="5" Command="{Binding CongNoDaiLyCommand}" ToolTip="Công nợ đại lý">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Công nợ đại lý" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="CashUsd" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                    <Button Grid.Column="3" Command="{Binding DanhSachDaiLyCommand}" ToolTip="Danh sách đại lý">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Danh sách đại lý" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="AccountMultiple" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                    <Button Grid.Column="7" Command="{Binding QuyDinh1Command}" ToolTip="Quy định 1">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <TextBlock Text="Quy định 1" HorizontalAlignment="Center"></TextBlock>
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <materialDesign:PackIcon Width="24" Height="24"  HorizontalAlignment="Center"  Kind="BookOpen" />
+                            </Grid>
+                        </Grid>
+                    </Button>
+                </Grid>
+            </Grid>
+
+            <!--main-->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                   <ProgressBar
+                    Style="{StaticResource MaterialDesignCircularProgressBar}"
+                    Value="99"
+                    IsIndeterminate="True"
+                    x:Name="IndeterminateToDeterminateCircularProgress" Height="100"  Width="100" /> 
+                </Grid>
+                <Grid Grid.Column="1">
+                    <ProgressBar
+                    Style="{StaticResource MaterialDesignCircularProgressBar}"
+                    Value="99"
+                    IsIndeterminate="True"
+                    x:Name="IndeterminateToDeterminateCircularProgress1" Height="100"  Width="100" />
+                </Grid>
+                <Grid Grid.Column="2">
+                    <ProgressBar
+                    Style="{StaticResource MaterialDesignCircularProgressBar}"
+                    Value="99"
+                    IsIndeterminate="True"
+                    x:Name="IndeterminateToDeterminateCircularProgress2" Height="100"  Width="100" />
+                </Grid>
+                <Grid Grid.Column="3">
+                    <ProgressBar
+                    Style="{StaticResource MaterialDesignCircularProgressBar}"
+                    Value="99"
+                    IsIndeterminate="True"
+                    x:Name="IndeterminateToDeterminateCircularProgress3" Height="100"  Width="100" />
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

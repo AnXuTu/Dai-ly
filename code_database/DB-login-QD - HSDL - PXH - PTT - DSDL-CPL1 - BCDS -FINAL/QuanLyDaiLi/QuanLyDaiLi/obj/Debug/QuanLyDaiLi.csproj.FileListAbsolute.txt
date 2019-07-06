@@ -1,0 +1,1077 @@
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojResolveAssemblyReference.cache
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.Cache
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UnitWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UnitWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\SuplierWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\SuplierWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CustomerWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CustomerWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ObjectWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ObjectWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\InputWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\InputWindow.baml
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\OutputWindow.g.cs
+E:\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\OutputWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CustomerWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\InputWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ObjectWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\OutputWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\SuplierWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UnitWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserWindow.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CustomerWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\InputWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ObjectWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\OutputWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\SuplierWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UnitWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserWindow.baml
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\doancnpm\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - Copy-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm - Copy - DB-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\CNPM all\doancnpm -DB-login-completed\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-completed - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\doancnpm -DB-login-QD - HSDL - PXH - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH1 - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXHTT - PTT - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinh1WinDow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinh1WinDow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinh1WinDow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinh1WinDow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\phamx\Desktop\DoAnCNPM\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS - Copy - Copy\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe.config
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.exe
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\QuanLyDaiLi.pdb
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.dll
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignColors.dll
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.xml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csprojAssemblyReference.cache
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinh1WinDow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_Content.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.cache
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi_MarkupCompile.lref
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\App.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\CongNoDaiLyWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\HoSoDaiLyWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\LoginWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\MainWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuThuTienWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\PhieuXuatHangWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinh1WinDow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\BaoCaoDoanhSoWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuyDinhWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\UserControlLogin\ControlBarUC.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\DanhSachDaiLyWindow.baml
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.g.resources
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.Properties.Resources.resources
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.GenerateResource.cache
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CoreCompileInputs.cache
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.csproj.CopyComplete
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.exe
+C:\Users\Be Tuan\Desktop\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL-20190706T023925Z-001\DB-login-QD - HSDL - PXH - PTT - DSDL-CPL1 - BCDS -FINAL\QuanLyDaiLi\QuanLyDaiLi\obj\Debug\QuanLyDaiLi.pdb

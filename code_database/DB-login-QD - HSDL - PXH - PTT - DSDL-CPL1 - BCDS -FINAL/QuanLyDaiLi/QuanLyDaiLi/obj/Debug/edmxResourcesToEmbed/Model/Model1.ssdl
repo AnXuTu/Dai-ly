@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLiDaiLi1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="HoSoDaiLi1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="TenDaiLy" Type="nvarchar" MaxLength="100" />
+    <Property Name="IdLoaiDaiLy" Type="int" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="100" />
+    <Property Name="Address" Type="nvarchar" MaxLength="200" />
+    <Property Name="IdQuan" Type="int" Nullable="false" />
+    <Property Name="NgayTiepNhan" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PhieuThuTien1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdTenDaiLy" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="100" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+    <Property Name="NgayThuTien" Type="date" Nullable="false" />
+    <Property Name="SoTienThu" Type="float" />
+  </EntityType>
+  <EntityType Name="PhieuXuatHang1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdTenDaiLy" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="NgayLapPhieu" Type="date" Nullable="false" />
+    <Property Name="MatHang" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DonViTinh" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="SoLuong" Type="int" Nullable="false" />
+    <Property Name="DonGia" Type="float" Nullable="false" />
+    <Property Name="ThanhTien" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Quan">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenQuan" Type="nvarchar" MaxLength="100" />
+    <Property Name="SoDaiLi" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="QuyDinh1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LoaiDaiLy" Type="nvarchar" MaxLength="100" />
+    <Property Name="SoLuong" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserRolee1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Userss1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar(max)" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Password" Type="nvarchar(max)" />
+    <Property Name="IdRole" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__HoSoDaiLi__IdLoa__145C0A3F">
+    <End Role="QuyDinh1" Type="Self.QuyDinh1" Multiplicity="1" />
+    <End Role="HoSoDaiLi1" Type="Self.HoSoDaiLi1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QuyDinh1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="HoSoDaiLi1">
+        <PropertyRef Name="IdLoaiDaiLy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__HoSoDaiLi__IdQua__15502E78">
+    <End Role="Quan" Type="Self.Quan" Multiplicity="1" />
+    <End Role="HoSoDaiLi1" Type="Self.HoSoDaiLi1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Quan">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="HoSoDaiLi1">
+        <PropertyRef Name="IdQuan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PhieuThuT__IdTen__1920BF5C">
+    <End Role="HoSoDaiLi1" Type="Self.HoSoDaiLi1" Multiplicity="1" />
+    <End Role="PhieuThuTien1" Type="Self.PhieuThuTien1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoSoDaiLi1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PhieuThuTien1">
+        <PropertyRef Name="IdTenDaiLy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PhieuXuat__Thanh__1CF15040">
+    <End Role="HoSoDaiLi1" Type="Self.HoSoDaiLi1" Multiplicity="1" />
+    <End Role="PhieuXuatHang1" Type="Self.PhieuXuatHang1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoSoDaiLi1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PhieuXuatHang1">
+        <PropertyRef Name="IdTenDaiLy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Userss1__IdRole__21B6055D">
+    <End Role="UserRolee1" Type="Self.UserRolee1" Multiplicity="1" />
+    <End Role="Userss1" Type="Self.Userss1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRolee1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Userss1">
+        <PropertyRef Name="IdRole" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLiDaiLi1ModelStoreContainer">
+    <EntitySet Name="HoSoDaiLi1" EntityType="Self.HoSoDaiLi1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhieuThuTien1" EntityType="Self.PhieuThuTien1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhieuXuatHang1" EntityType="Self.PhieuXuatHang1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Quan" EntityType="Self.Quan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QuyDinh1" EntityType="Self.QuyDinh1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserRolee1" EntityType="Self.UserRolee1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Userss1" EntityType="Self.Userss1" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__HoSoDaiLi__IdLoa__145C0A3F" Association="Self.FK__HoSoDaiLi__IdLoa__145C0A3F">
+      <End Role="QuyDinh1" EntitySet="QuyDinh1" />
+      <End Role="HoSoDaiLi1" EntitySet="HoSoDaiLi1" />
+    </AssociationSet>
+    <AssociationSet Name="FK__HoSoDaiLi__IdQua__15502E78" Association="Self.FK__HoSoDaiLi__IdQua__15502E78">
+      <End Role="Quan" EntitySet="Quan" />
+      <End Role="HoSoDaiLi1" EntitySet="HoSoDaiLi1" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PhieuThuT__IdTen__1920BF5C" Association="Self.FK__PhieuThuT__IdTen__1920BF5C">
+      <End Role="HoSoDaiLi1" EntitySet="HoSoDaiLi1" />
+      <End Role="PhieuThuTien1" EntitySet="PhieuThuTien1" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PhieuXuat__Thanh__1CF15040" Association="Self.FK__PhieuXuat__Thanh__1CF15040">
+      <End Role="HoSoDaiLi1" EntitySet="HoSoDaiLi1" />
+      <End Role="PhieuXuatHang1" EntitySet="PhieuXuatHang1" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Userss1__IdRole__21B6055D" Association="Self.FK__Userss1__IdRole__21B6055D">
+      <End Role="UserRolee1" EntitySet="UserRolee1" />
+      <End Role="Userss1" EntitySet="Userss1" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

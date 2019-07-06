@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLiDaiLi1ModelStoreContainer" CdmEntityContainer="QuanLiDaiLi1Entities">
+    <EntitySetMapping Name="HoSoDaiLi1">
+      <EntityTypeMapping TypeName="QuanLiDaiLi1Model.HoSoDaiLi1">
+        <MappingFragment StoreEntitySet="HoSoDaiLi1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TenDaiLy" ColumnName="TenDaiLy" />
+          <ScalarProperty Name="IdLoaiDaiLy" ColumnName="IdLoaiDaiLy" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="IdQuan" ColumnName="IdQuan" />
+          <ScalarProperty Name="NgayTiepNhan" ColumnName="NgayTiepNhan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuThuTien1">
+      <EntityTypeMapping TypeName="QuanLiDaiLi1Model.PhieuThuTien1">
+        <MappingFragment StoreEntitySet="PhieuThuTien1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdTenDaiLy" ColumnName="IdTenDaiLy" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NgayThuTien" ColumnName="NgayThuTien" />
+          <ScalarProperty Name="SoTienThu" ColumnName="SoTienThu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuXuatHang1">
+      <EntityTypeMapping TypeName="QuanLiDaiLi1Model.PhieuXuatHang1">
+        <MappingFragment StoreEntitySet="PhieuXuatHang1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdTenDaiLy" ColumnName="IdTenDaiLy" />
+          <ScalarProperty Name="NgayLapPhieu" ColumnName="NgayLapPhieu" />
+          <ScalarProperty Name="MatHang" ColumnName="MatHang" />
+          <ScalarProperty Name="DonViTinh" ColumnName="DonViTinh" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Quans">
+      <EntityTypeMapping TypeName="QuanLiDaiLi1Model.Quan">
+        <MappingFragment StoreEntitySet="Quan">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="TenQuan" ColumnName="TenQuan" />
+          <ScalarProperty Name="SoDaiLi" ColumnName="SoDaiLi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QuyDinh1">
+      <EntityTypeMapping TypeName="QuanLiDaiLi1Model.QuyDinh1">
+        <MappingFragment StoreEntitySet="QuyDinh1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="LoaiDaiLy" ColumnName="LoaiDaiLy" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRolee1">
+      <EntityTypeMapping TypeName="QuanLiDaiLi1Model.UserRolee1">
+        <MappingFragment StoreEntitySet="UserRolee1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Userss1">
+      <EntityTypeMapping TypeName="QuanLiDaiLi1Model.Userss1">
+        <MappingFragment StoreEntitySet="Userss1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="IdRole" ColumnName="IdRole" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

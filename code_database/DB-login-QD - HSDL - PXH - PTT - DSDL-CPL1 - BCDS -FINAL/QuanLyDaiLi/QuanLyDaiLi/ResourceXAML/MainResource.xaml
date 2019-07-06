@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel="clr-namespace:QuanLyDaiLi.ViewModel"
+                    xmlns:local="clr-namespace:QuanLyDaiLi.ResourceXAML">
+    <viewmodel:MainViewModel x:Key="MainVM"></viewmodel:MainViewModel>
+    <viewmodel:LoginViewModel x:Key="LoginVM"></viewmodel:LoginViewModel>
+    <viewmodel:QuyDinhViewModel x:Key="QuyDinhVM"></viewmodel:QuyDinhViewModel>
+    <viewmodel:HoSoDaiLyViewModel x:Key="HoSoDaiLyVM"></viewmodel:HoSoDaiLyViewModel>
+    <viewmodel:PhieuXuatHangViewModel x:Key="PhieuXuatHangVM"></viewmodel:PhieuXuatHangViewModel>
+    <viewmodel:PhieuThuTienViewModel x:Key="PhieuThuTienVM"></viewmodel:PhieuThuTienViewModel>
+    <viewmodel:DanhSachDaiLiViewModel x:Key="DanhSachDaiLiVM"></viewmodel:DanhSachDaiLiViewModel>
+    <viewmodel:BaoCaoDoanhSoViewModel x:Key="BaoCaoDoanhSoVM"></viewmodel:BaoCaoDoanhSoViewModel>
+    <viewmodel:BaoCaoCongNoDaiLyViewModel x:Key="CongNoDaiLyVM"></viewmodel:BaoCaoCongNoDaiLyViewModel>
+    <viewmodel:QuyDinh1ViewModel x:Key="QuyDinh1VM"></viewmodel:QuyDinh1ViewModel>
+    
+</ResourceDictionary>
