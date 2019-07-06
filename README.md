@@ -1,35 +1,35 @@
 # Dai-ly
 
 ># I. Introduce:
-Ứng dụng công nghệ thông tin cho mục đích sống của con người không còn xa lạ nữa.
+ Ứng dụng công nghệ thông tin cho mục đích sống của con người không còn xa lạ nữa.
 
-Phần mềm quản lý đại lý của nhóm không chỉ giúp kiểm soát mà còn có thể quản lý mọi hoạt động của các đại lý một cách dễ dàng và hiệu quả nhất:
+ Phần mềm quản lý đại lý của nhóm không chỉ giúp kiểm soát mà còn có thể quản lý mọi hoạt động của các đại lý một cách dễ dàng và hiệu quả nhất:
 
-Bao gồm các công việc như:
++ Bao gồm các công việc như:
 
-Tiếp nhận đại lý mới
+• Tiếp nhận đại lý mới
 
-Kiểm soát các đại lý hiện có
+• Kiểm soát các đại lý hiện có
 
-Lập phiếu xuất hàng
+• Lập phiếu xuất hàng
 
-Tra cứu đại lý hiện có
+• Tra cứu đại lý hiện có
 
-Lập phiếu thu tiền
+• Lập phiếu thu tiền
 
-Báo cáo doanh số và công nợ hàng tháng
+• Báo cáo doanh số và công nợ hàng tháng
 
 
 ># II. Build with: 
-Những công cụ hỗ trợ trong việc xây dựng phần mềm:
+ Những công cụ hỗ trợ trong việc xây dựng phần mềm:
 
-Microsoft Visual Studio 2017- Xây dựng phần mềm
++ Microsoft Visual Studio 2017- Xây dựng phần mềm
 
-Download link: https://www.techspot.com/downloads/6278-visual-studio.html?fbclid=IwAR1VbAWsSon-JPiIRAtzDRhldrKAV4xdpv4vudhfhuE7GufAKdwQ1fJnecA
++ Download link: https://www.techspot.com/downloads/6278-visual-studio.html?fbclid=IwAR1VbAWsSon-JPiIRAtzDRhldrKAV4xdpv4vudhfhuE7GufAKdwQ1fJnecA
 
-SQL Server Management Studio Express2012 - quản lý cơ sở dữ liệu
++ SQL Server Management Studio Express2012 - quản lý cơ sở dữ liệu
 
-Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJUIukjYQgXgU-J2p37JVS_dMMiMlSxhR_xjSIlzdyYnHufY9D5cc5i4
++ Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJUIukjYQgXgU-J2p37JVS_dMMiMlSxhR_xjSIlzdyYnHufY9D5cc5i4
 
 ># III. BÁO CÁO:
 
