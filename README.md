@@ -7,17 +7,17 @@
 
 + Bao gồm các công việc như:
 
-• Tiếp nhận đại lý mới
+     • Tiếp nhận đại lý mới
 
-• Kiểm soát các đại lý hiện có
+     • Kiểm soát các đại lý hiện có
 
-• Lập phiếu xuất hàng
+     • Lập phiếu xuất hàng
 
-• Tra cứu đại lý hiện có
+     • Tra cứu đại lý hiện có
 
-• Lập phiếu thu tiền
+     • Lập phiếu thu tiền
 
-• Báo cáo doanh số và công nợ hàng tháng
+     • Báo cáo doanh số và công nợ hàng tháng
 
 
 ># II. Build with: 
