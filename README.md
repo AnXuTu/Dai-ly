@@ -1,4 +1,4 @@
-# Dai-ly
+# Đai-lý
 
 ># I. Introduce:
  Ứng dụng công nghệ thông tin cho mục đích sống của con người không còn xa lạ nữa.
@@ -31,7 +31,7 @@
 
 + Download link: https://filehippo.com/download_sql_server_studio/?fbclid=IwAR1aJUIukjYQgXgU-J2p37JVS_dMMiMlSxhR_xjSIlzdyYnHufY9D5cc5i4
 
-># III. BÁO CÁO:
+># III. REPORT:
 
  ## CHƯƠNG 1: HIỆN TRẠNG: 
   
