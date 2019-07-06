@@ -172,7 +172,7 @@
 ## Chương 2: Phân tích
 
   **1. FDD:**
-     ![FDD](https://user-images.githubusercontent.com/48848147/60739352-cec81380-9f8b-11e9-98f5-2aaf6d5614b4.JPG)
+     
      + BẢNG MÔ TẢ CHỨC NĂNG:
      ![chuc_nang_1](https://user-images.githubusercontent.com/48848147/60738984-5ca2ff00-9f8a-11e9-8cae-1310517c5bd2.JPG)
      ![chuc_nang_2](https://user-images.githubusercontent.com/48848147/60739051-9d027d00-9f8a-11e9-8780-06b972127bc7.JPG)
