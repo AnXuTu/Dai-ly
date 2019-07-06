@@ -43,7 +43,7 @@
    + Tổ chức bao gồm Giám đốc, Phó Giám Đốc, Phòng kế toán, Phòng tiếp nhận hồ sơ, Quản lý kho, Kinh tế & đối ngoại và Phòng tài chính Marketing.
 
    + Sơ đồ cơ cấu tổ chức :
-        ![sơ đồ](https://user-images.githubusercontent.com/48848147/60735563-22336500-9f7e-11e9-9b72-cf6808fe47fe.JPG)
+![sơ đồ](https://user-images.githubusercontent.com/48848147/60735563-22336500-9f7e-11e9-9b72-cf6808fe47fe.JPG)
 
 	Đối nội:
 +	Phòng kế toán: chủ yếu lập phiếu thu tiền và thu tiền từ các đại lý.
@@ -153,11 +153,11 @@
    
   ** Danh sách các yêu cầu chất lượng**
   
-  ![chat_luong](https://user-images.githubusercontent.com/48848147/60741232-d4752780-9f92-11e9-8418-eaceadf54c7f.JPG)
+ ![chat_luong](https://user-images.githubusercontent.com/48848147/60741232-d4752780-9f92-11e9-8418-eaceadf54c7f.JPG)
   
    ** Bảng trách nhiệm yêu cầu chất lượng**
    
-  ![tien_hoa](https://user-images.githubusercontent.com/48848147/60741233-d4752780-9f92-11e9-99b6-76d4742bb0d2.JPG)
+ ![tien_hoa](https://user-images.githubusercontent.com/48848147/60741233-d4752780-9f92-11e9-99b6-76d4742bb0d2.JPG)
   
   **2.3 YÊU CẦU  HỆ THỐNG**
   
