@@ -325,6 +325,9 @@
 **3. ERD:**   
 ![New](https://user-images.githubusercontent.com/48848147/60738665-552f2600-9f89-11e9-940c-40e4310d8f94.png)
 
+**4.Class_Diagram(design):
+![class_diagram](https://user-images.githubusercontent.com/48848147/60749815-d8706c00-9fc9-11e9-9176-d3cf9dc717d4.JPG)
+
 ## Chương 3: Thiết kế
 **1. Thiết kế kiến trúc:**
 
