@@ -421,16 +421,14 @@
 
 +	Cần tìm hiểu và có một chút kiến thức khi cài đặt SQL Server 2012 Express.
 +	Phải có mạng và wifi mạnh để download nhanh hơn.
+ 
+># VI. FAQ & Usage:
 
+># IV. Authors:
++    An Xuân Tuấn - 16521355(leader)-phân tích các sơ đồ FDD,DFD,ERD,class_diagram ở dạng thiết kế, tổng hợp và viết báo cáo.
 
-# V. Example:   
-# VI. FAQ & Usage:
-# VII. Contributing:
-# IV. Authors:
-An Xuân Tuấn - 16521355
++    Nguyễn Tấn Phát - 16521619-phân tích các sơ đồ FDD,DFD ở dạng thiết kế, chỉnh sửa báo cáo.
 
-Nguyễn Tấn Phát - 16521619
++    Lã Tuấn Vinh - 16521439-ERD,class_diagram ERD,class_diagram ở dạng thiết kế, chỉnh sửa báo cáo.
 
-Lã Tuấn Vinh - 16521439
-
-Phạm Xuân Linh - 16521717
++    Phạm Xuân Linh - 16521717-thiết kế database và code c#.
